@@ -6,13 +6,13 @@
 NOTA:
 En caso de haber más de una más larga, devuelve una lista con todas las subsecuencias mayores.
 
-EJEMPLO DE ENTRADA
+EJEMPLO DE ENTRADA:
 '(55 70 10 5 90 130 40 80)
 
-EJEMPLO DE SALIDA
+EJEMPLO DE SALIDA:
 (5 90 130)
 
-EXPLICACIÓN
-HAY 4 secuencias ascendente:
+EXPLICACIÓN:
+Hay 4 secuencias ascendente:
 (55 70) (10) (5 90 130) (40 80)
 Pero la de mayor longitud es la de tercer secuencia (tiene tres elementos)
