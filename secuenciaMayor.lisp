@@ -1,3 +1,4 @@
+;Author: liu
 ;FUNDAMENTOS
 ;Lista de entrada: '(55 70 10 5 90 130 40 80)
 ;Proceso: ((55 70) (10) (5 90 130) (40 80))
